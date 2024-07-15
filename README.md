@@ -1,1 +1,2 @@
-# Blood_Bank_System
+# Java-Project
+Blood Bank System project in java
